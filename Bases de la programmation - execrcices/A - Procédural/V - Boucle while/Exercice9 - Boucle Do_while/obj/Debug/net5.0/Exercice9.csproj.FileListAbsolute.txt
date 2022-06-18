@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\bin\Debug\net5.0\Exercice9.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\bin\Debug\net5.0\Exercice9.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\bin\Debug\net5.0\Exercice9.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\bin\Debug\net5.0\Exercice9.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\bin\Debug\net5.0\Exercice9.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\bin\Debug\net5.0\ref\Exercice9.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\bin\Debug\net5.0\Exercice9.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\ref\Exercice9.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice9\obj\Debug\net5.0\Exercice9.genruntimeconfig.cache

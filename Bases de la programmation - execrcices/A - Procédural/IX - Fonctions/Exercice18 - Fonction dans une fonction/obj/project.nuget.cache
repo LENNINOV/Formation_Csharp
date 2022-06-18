@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxoAKhjI9CdxvwTIthX8rB8wEa8vkBd4TEZDZMEbJgUQgRUyJ5+96tD4pE/qlGIKfGItpTd95djGntPBgoGd3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valentin\\Source\\Repos\\Projets\\C#\\E_mds\\Exercices\\A - Procédural\\IX - Fonctions\\Exercice18\\Exercice18.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Valentin\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Valentin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

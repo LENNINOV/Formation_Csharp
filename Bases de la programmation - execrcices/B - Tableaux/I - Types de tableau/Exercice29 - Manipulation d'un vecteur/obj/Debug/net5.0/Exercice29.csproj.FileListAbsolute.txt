@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\bin\Debug\net5.0\Exercice29.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\bin\Debug\net5.0\Exercice29.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\bin\Debug\net5.0\Exercice29.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\bin\Debug\net5.0\Exercice29.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\bin\Debug\net5.0\Exercice29.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\bin\Debug\net5.0\ref\Exercice29.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\bin\Debug\net5.0\Exercice29.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\ref\Exercice29.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\I - Manipulation de vecteurs\Exercice29\obj\Debug\net5.0\Exercice29.genruntimeconfig.cache

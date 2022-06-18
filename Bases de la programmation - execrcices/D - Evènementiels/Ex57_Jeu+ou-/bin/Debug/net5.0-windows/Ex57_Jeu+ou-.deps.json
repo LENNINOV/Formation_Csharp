@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex57_Jeu+ou-/1.0.0": {
+        "runtime": {
+          "Ex57_Jeu+ou-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex57_Jeu+ou-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex64_Poids_Idéal/1.0.0": {
+        "runtime": {
+          "Ex64_Poids_Idéal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex64_Poids_Idéal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

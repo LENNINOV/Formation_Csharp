@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\bin\Debug\net5.0\Exercice17.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\bin\Debug\net5.0\Exercice17.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\bin\Debug\net5.0\Exercice17.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\bin\Debug\net5.0\Exercice17.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\bin\Debug\net5.0\Exercice17.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\bin\Debug\net5.0\ref\Exercice17.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\bin\Debug\net5.0\Exercice17.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\ref\Exercice17.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\9 - Fonctions\Exercice17\obj\Debug\net5.0\Exercice17.genruntimeconfig.cache

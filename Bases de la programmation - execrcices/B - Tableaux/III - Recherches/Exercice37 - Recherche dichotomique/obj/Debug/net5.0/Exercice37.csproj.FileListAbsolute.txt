@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\bin\Debug\net5.0\Exercice37.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\bin\Debug\net5.0\Exercice37.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\bin\Debug\net5.0\Exercice37.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\bin\Debug\net5.0\Exercice37.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\bin\Debug\net5.0\Exercice37.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\bin\Debug\net5.0\ref\Exercice37.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\bin\Debug\net5.0\Exercice37.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\ref\Exercice37.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\III - Recherches\Exercice37\obj\Debug\net5.0\Exercice37.genruntimeconfig.cache

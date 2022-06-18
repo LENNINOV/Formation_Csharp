@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\bin\Debug\net5.0\Exercice41.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\bin\Debug\net5.0\Exercice41.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\bin\Debug\net5.0\Exercice41.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\bin\Debug\net5.0\Exercice41.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\bin\Debug\net5.0\Exercice41.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\bin\Debug\net5.0\ref\Exercice41.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\bin\Debug\net5.0\Exercice41.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\ref\Exercice41.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\V - Avancé\Exercice41\obj\Debug\net5.0\Exercice41.genruntimeconfig.cache

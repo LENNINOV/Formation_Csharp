@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "69_Vie_un_objet/1.0.0": {
+        "runtime": {
+          "69_Vie_un_objet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "69_Vie_un_objet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

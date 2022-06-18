@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\bin\Debug\net5.0\Ex53.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\bin\Debug\net5.0\Ex53.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\bin\Debug\net5.0\Ex53.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\bin\Debug\net5.0\Ex53.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\bin\Debug\net5.0\Ex53.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\bin\Debug\net5.0\ref\Ex53.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\bin\Debug\net5.0\Ex53.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\ref\Ex53.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\IV - Vecteurs\Ex53\obj\Debug\net5.0\Ex53.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\bin\Debug\net5.0\Exercice34.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\bin\Debug\net5.0\Exercice34.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\bin\Debug\net5.0\Exercice34.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\bin\Debug\net5.0\Exercice34.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\bin\Debug\net5.0\Exercice34.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\bin\Debug\net5.0\ref\Exercice34.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\bin\Debug\net5.0\Exercice34.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\ref\Exercice34.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\B - Tableaux\II - Algorithmes de tri\Exercice34\obj\Debug\net5.0\Exercice34.genruntimeconfig.cache

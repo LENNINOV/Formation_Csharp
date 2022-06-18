@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\bin\Debug\net5.0\Exercice50.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\bin\Debug\net5.0\Exercice50.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\bin\Debug\net5.0\Exercice50.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\bin\Debug\net5.0\Exercice50.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\bin\Debug\net5.0\Exercice50.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\bin\Debug\net5.0\ref\Exercice50.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\bin\Debug\net5.0\Exercice50.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\ref\Exercice50.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\III - Procédure vs fonction\Exercice50\obj\Debug\net5.0\Exercice50.genruntimeconfig.cache

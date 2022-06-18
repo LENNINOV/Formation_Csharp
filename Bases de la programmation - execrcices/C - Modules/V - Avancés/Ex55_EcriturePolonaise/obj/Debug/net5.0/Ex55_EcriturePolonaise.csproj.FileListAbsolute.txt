@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\bin\Debug\net5.0\Ex55_EcriturePolonaise.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\bin\Debug\net5.0\Ex55_EcriturePolonaise.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\bin\Debug\net5.0\Ex55_EcriturePolonaise.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\bin\Debug\net5.0\Ex55_EcriturePolonaise.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\bin\Debug\net5.0\Ex55_EcriturePolonaise.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\bin\Debug\net5.0\ref\Ex55_EcriturePolonaise.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\bin\Debug\net5.0\Ex55_EcriturePolonaise.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\ref\Ex55_EcriturePolonaise.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex55_EcriturePolonaise\obj\Debug\net5.0\Ex55_EcriturePolonaise.genruntimeconfig.cache

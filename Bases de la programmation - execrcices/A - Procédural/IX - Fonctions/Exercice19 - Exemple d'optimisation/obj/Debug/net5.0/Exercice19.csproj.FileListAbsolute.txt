@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\bin\Debug\net5.0\Exercice19.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\bin\Debug\net5.0\Exercice19.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\bin\Debug\net5.0\Exercice19.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\bin\Debug\net5.0\Exercice19.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\bin\Debug\net5.0\Exercice19.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\bin\Debug\net5.0\ref\Exercice19.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\bin\Debug\net5.0\Exercice19.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\ref\Exercice19.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\10 - Optimisation\Exercice19\obj\Debug\net5.0\Exercice19.genruntimeconfig.cache

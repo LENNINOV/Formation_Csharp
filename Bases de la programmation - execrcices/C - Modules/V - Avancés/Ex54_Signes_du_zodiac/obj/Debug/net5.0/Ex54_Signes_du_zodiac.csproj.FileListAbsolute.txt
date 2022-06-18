@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\bin\Debug\net5.0\Ex54_Signes_du_zodiac.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\bin\Debug\net5.0\Ex54_Signes_du_zodiac.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\bin\Debug\net5.0\Ex54_Signes_du_zodiac.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\bin\Debug\net5.0\Ex54_Signes_du_zodiac.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\bin\Debug\net5.0\Ex54_Signes_du_zodiac.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\bin\Debug\net5.0\ref\Ex54_Signes_du_zodiac.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\bin\Debug\net5.0\Ex54_Signes_du_zodiac.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\ref\Ex54_Signes_du_zodiac.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\V - Avancés\Ex54_Signes_du_zodiac\obj\Debug\net5.0\Ex54_Signes_du_zodiac.genruntimeconfig.cache

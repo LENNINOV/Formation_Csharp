@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\bin\Debug\net5.0\NombreCache.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\bin\Debug\net5.0\NombreCache.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\bin\Debug\net5.0\NombreCache.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\bin\Debug\net5.0\NombreCache.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\bin\Debug\net5.0\NombreCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\bin\Debug\net5.0\ref\NombreCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\bin\Debug\net5.0\NombreCache.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\ref\NombreCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\NombreCache\obj\Debug\net5.0\NombreCache.genruntimeconfig.cache

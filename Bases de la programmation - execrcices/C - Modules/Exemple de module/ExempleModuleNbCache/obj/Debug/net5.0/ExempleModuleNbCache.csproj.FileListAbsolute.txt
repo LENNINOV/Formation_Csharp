@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\bin\Debug\net5.0\ExempleModuleNbCache.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\bin\Debug\net5.0\ExempleModuleNbCache.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\bin\Debug\net5.0\ExempleModuleNbCache.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\bin\Debug\net5.0\ExempleModuleNbCache.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\bin\Debug\net5.0\ExempleModuleNbCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\bin\Debug\net5.0\ref\ExempleModuleNbCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\bin\Debug\net5.0\ExempleModuleNbCache.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ref\ExempleModuleNbCache.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exemple de module\ExempleModuleNbCache\obj\Debug\net5.0\ExempleModuleNbCache.genruntimeconfig.cache

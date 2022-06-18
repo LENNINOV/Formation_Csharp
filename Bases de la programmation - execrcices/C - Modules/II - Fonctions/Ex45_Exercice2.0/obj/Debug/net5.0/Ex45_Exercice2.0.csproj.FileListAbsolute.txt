@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\bin\Debug\net5.0\Ex45_Exercice2.0.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\bin\Debug\net5.0\Ex45_Exercice2.0.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\bin\Debug\net5.0\Ex45_Exercice2.0.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\bin\Debug\net5.0\Ex45_Exercice2.0.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\bin\Debug\net5.0\Ex45_Exercice2.0.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\bin\Debug\net5.0\ref\Ex45_Exercice2.0.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\bin\Debug\net5.0\Ex45_Exercice2.0.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\ref\Ex45_Exercice2.0.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex45_Exercice2.0\obj\Debug\net5.0\Ex45_Exercice2.0.genruntimeconfig.cache

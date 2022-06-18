@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\bin\Debug\net5.0\Exercice8.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\bin\Debug\net5.0\Exercice8.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\bin\Debug\net5.0\Exercice8.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\bin\Debug\net5.0\Exercice8.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\bin\Debug\net5.0\Exercice8.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\bin\Debug\net5.0\ref\Exercice8.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\bin\Debug\net5.0\Exercice8.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\ref\Exercice8.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Exercice8\obj\Debug\net5.0\Exercice8.genruntimeconfig.cache

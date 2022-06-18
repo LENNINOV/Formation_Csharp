@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\bin\Debug\net5.0\Exercice27.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\bin\Debug\net5.0\Exercice27.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\bin\Debug\net5.0\Exercice27.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\bin\Debug\net5.0\Exercice27.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\bin\Debug\net5.0\Exercice27.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\bin\Debug\net5.0\ref\Exercice27.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\bin\Debug\net5.0\Exercice27.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\ref\Exercice27.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\Procédural\12 - Mathématiques\Exercice27\obj\Debug\net5.0\Exercice27.genruntimeconfig.cache

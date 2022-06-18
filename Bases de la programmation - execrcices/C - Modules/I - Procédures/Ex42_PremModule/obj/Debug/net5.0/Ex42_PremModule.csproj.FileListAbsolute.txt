@@ -1,0 +1,16 @@
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\bin\Debug\net5.0\Ex42_PremModule.exe
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\bin\Debug\net5.0\Ex42_PremModule.deps.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\bin\Debug\net5.0\Ex42_PremModule.runtimeconfig.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\bin\Debug\net5.0\Ex42_PremModule.runtimeconfig.dev.json
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\bin\Debug\net5.0\Ex42_PremModule.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\bin\Debug\net5.0\ref\Ex42_PremModule.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\bin\Debug\net5.0\Ex42_PremModule.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.csproj.AssemblyReference.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.AssemblyInfoInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.AssemblyInfo.cs
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\ref\Ex42_PremModule.dll
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.pdb
+C:\Users\Valentin\Source\Repos\Projets\C#\E_mds\Exercices\C - Modules\I - Fonctions\Ex42_PremModule\obj\Debug\net5.0\Ex42_PremModule.genruntimeconfig.cache
